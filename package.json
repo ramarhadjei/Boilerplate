@@ -1,7 +1,7 @@
 {
   "name": "boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "React and Express Boilerplate",
   "main": "server.js",
   "dependencies": {
     "concurrently": "^5.3.0",
